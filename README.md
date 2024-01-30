@@ -1,4 +1,4 @@
-### Introduction
+ ** Introduction
 jQuery.html5Loader can preload <b>images</b>, <b>SVGs</b>, html5 <b>video</b> and <b>audio</b> sources, <b>css</b>, <b>scripts</b> and <b>text</b> files.
 This plugin needs a <b>JSON</b> file to get the files that must be preloaded (you can use also use a javascript object as well), and it provides an easy API to give you the right amount of files loaded in percentage.
 
@@ -248,3 +248,4 @@ You can also load SVG files providing a fallback image. jQuery.html5Loader will 
 - added: stopExecution option via json
 - added: nprogress demo
 
+ 
